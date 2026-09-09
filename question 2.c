@@ -3,8 +3,7 @@
 int main() {
     int age;
     char name[20] , department[20] , studentID[20] , university_name[20];
-
-
+    
     printf("Enter your name: ");
     scanf("%19s", &name);
 
