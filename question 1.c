@@ -7,6 +7,4 @@ int main (){
     printf("my section is 1D\n");
     printf("my university name is Fast-nuces");
     return 0;
-
-
 }
