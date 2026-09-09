@@ -5,6 +5,6 @@ int main (){
     printf("I am in CS department.\n");
     printf("My student id is 26k-0652.\n");
     printf("My section is 1-D.\n");
-    printf("My university name is Fast-nuces.");
+    printf("My university name is FAST-NUCES.");
     return 0;
 }
